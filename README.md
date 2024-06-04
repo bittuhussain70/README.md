@@ -19,7 +19,7 @@ As a skilled Data Science Graduate and Data Analytics with a passion for innovat
 
 My expertise is in the Machine Learning (ML), Artificial Neural Networks (ANN), and Convolutional Neural Networks (CNN). I am continuously expanding my skillset by working with the latest technologies and staying up-to-date with industry trends </p> 
 
- <a href="https://app.daily.dev/mbahu"><img src="https://api.daily.dev/devcards/b3a546ed419f46e1a6dae21f3811bce7.png?r=zle" width="400" alt="Muhammed Talić's Dev Card"/></a>
+ <a href="https://app.daily#.dev/mbahu"><img src="https://api.daily.dev/devcards/b3a546ed419f46e1a6dae21f3811bce7.png?r=zle" width="400" alt="Muhammed Talić's Dev Card"/></a>
 
 ## 📱💻 College projects
 
